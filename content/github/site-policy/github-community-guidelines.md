@@ -1,4 +1,4 @@
----
+I need money 💰 
 title: GitHub Community Guidelines
 redirect_from:
   - /community-guidelines
